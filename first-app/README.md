@@ -1,3 +1,7 @@
+This is a simple React + Vite app showcasing the use of Components AND props
+
+It consist of a Navbar , Cards and a Footer
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
